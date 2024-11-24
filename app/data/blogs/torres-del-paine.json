@@ -1,0 +1,35 @@
+{
+  "id": "torres-del-paine",
+  "title": {
+    "en": "Cycling Through Torres del Paine",
+    "nl": "Fietsen door Torres del Paine"
+  },
+  "date": "2024-03-15",
+  "location": {
+    "en": "Torres del Paine, Chile",
+    "nl": "Torres del Paine, Chili"
+  },
+  "coverImage": "/blogs/torres-del-paine/cover.jpg",
+  "gpxFiles": ["/blogs/torres-del-paine/day1.gpx", "/blogs/torres-del-paine/day2.gpx"],
+  "summary": {
+    "en": "A breathtaking journey through Patagonia's most iconic national park",
+    "nl": "Een adembenemende reis door Patagonië's meest iconische nationale park"
+  },
+  "content": [
+    {
+      "type": "text",
+      "content": {
+        "en": "The morning sun cast long shadows across the gravel road as I began my journey through Torres del Paine. The iconic peaks loomed ahead, their jagged silhouettes cutting through the crisp Patagonian sky.",
+        "nl": "De ochtendzon wierp lange schaduwen over de grindweg toen ik aan mijn reis door Torres del Paine begon. De iconische pieken doemden voor me op, hun gekartelde silhouetten sneden door de frisse Patagonische lucht."
+      }
+    },
+    {
+      "type": "image",
+      "content": "/blogs/torres-del-paine/morning-view.jpg",
+      "caption": {
+        "en": "First light hitting the Torres",
+        "nl": "Eerste zonlicht op de Torres"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "carretera-austral",
+  "title": {
+    "en": "The Wild Carretera Austral",
+    "nl": "De Wilde Carretera Austral"
+  },
+  "date": "2024-03-10",
+  "location": {
+    "en": "Carretera Austral, Chile",
+    "nl": "Carretera Austral, Chili"
+  },
+  "coverImage": "/blogs/carretera-austral/cover.jpg",
+  "summary": {
+    "en": "Exploring Chile's remote southern highway",
+    "nl": "Ontdekking van Chili's afgelegen zuidelijke snelweg"
+  },
+  "content": [
+    {
+      "type": "text",
+      "content": {
+        "en": "The Carretera Austral stretches like a ribbon through the heart of Chilean Patagonia, connecting the remote and the wild.",
+        "nl": "De Carretera Austral strekt zich als een lint uit door het hart van Chileens Patagonië, en verbindt het afgelegen met het wilde."
+      }
+    }
+  ]
+}
